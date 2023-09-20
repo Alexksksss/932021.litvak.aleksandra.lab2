@@ -17,7 +17,8 @@
     max-width: 80%;
     min-width: 700px;
 }
-.image{
+img{
+    width: 30vw;
     float: right;
 }
 *{
